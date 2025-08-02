@@ -1,0 +1,35 @@
+{
+    "name": "DJ_project",
+    "fieldtype": "dd2e1f4b-f5db-45e8-85fa-efd27bae7b6a",
+    "datatype": "VARCHAR",
+    "indexes": "0",
+    "null_switch": "NOT NULL",
+    "store": 0,
+    "on_get_model_field": "",
+    "on_save_model_field": "",
+    "initiator_on_get_model": "",
+    "xml": "<field\n\ttype=\"projects\"\n\tname=\"project\"\n\tlabel=\"Project\"\n\tdescription=\"Insert your notes\"\n\tmessage=\"\"\n\tclass=\"list_class\"\n\tlayout=\"joomla.form.field.list-fancy-select\"\n\tmultiple=\"false\"\n\tdefault=\"\"\n\trequired=\"true\"\n\tvalidate=\"\"\n\treadonly=\"false\"\n\tdisabled=\"false\"\n\tshowon=\"\"\n\tonchange=\"\"\n\textends=\"list\"\n\tbutton=\"true\"\n\ttable=\"#__###component###_project\"\n\tcomponent=\"com_###component###\"\n\tentity=\"fieldtype\"\n\tview=\"project\"\n\tviews=\"projects\"\n\tvalue_field=\"name\"\n\tkey_field=\"id\"\n\tprime_php=\"1\"\n\ttype_php_1=\"__.o0=base64=Oo.__Ly8gR2V0IHRoZSB1c2VyIG9iamVjdC4NCgkJJHVzZXIgPSBGYWN0b3J5OjpnZXRVc2VyKCk7DQoJCS8vIEdldCB0aGUgZGF0YWJzZSBvYmplY3QuDQoJCSRkYiA9IEZhY3Rvcnk6OmdldERCTygpOw0KCQkkcXVlcnkgPSAkZGItPmdldFF1ZXJ5KHRydWUpOw0KCQkkcXVlcnktPnNlbGVjdCgkZGItPnF1b3RlTmFtZShhcnJheSgnYS4jIyNJRCMjIycsJ2EuIyMjVEVYVCMjIycpLGFycmF5KCcjIyNJRCMjIycsJyMjI0NPREVfVEVYVCMjIycpKSk7DQoJCSRxdWVyeS0+ZnJvbSgkZGItPnF1b3RlTmFtZSgnIyMjVEFCTEUjIyMnLCAnYScpKTsNCgkJJHF1ZXJ5LT53aGVyZSgkZGItPnF1b3RlTmFtZSgnYS5wdWJsaXNoZWQnKSAuICcgPSAxJyk7DQoJCSRxdWVyeS0+b3JkZXIoJ2EuIyMjVEVYVCMjIyBBU0MnKTsNCgkJLy8gSW1wbGVtZW50IFZpZXcgTGV2ZWwgQWNjZXNzIChpZiBzZXQgaW4gdGFibGUpDQoJCWlmICghJHVzZXItPmF1dGhvcmlzZSgnY29yZS5vcHRpb25zJywgJ1tbW2NvbV9jb21wb25lbnRdXV0nKSkNCgkJew0KCQkJJGNvbHVtbnMgPSAkZGItPmdldFRhYmxlQ29sdW1ucygnIyMjVEFCTEUjIyMnKTsNCgkJCWlmKGlzc2V0KCRjb2x1bW5zWydhY2Nlc3MnXSkpDQoJCQl7DQoJCQkJJGdyb3VwcyA9IGltcGxvZGUoJywnLCAkdXNlci0+Z2V0QXV0aG9yaXNlZFZpZXdMZXZlbHMoKSk7DQoJCQkJJHF1ZXJ5LT53aGVyZSgnYS5hY2Nlc3MgSU4gKCcgLiAkZ3JvdXBzIC4gJyknKTsNCgkJCX0NCgkJfQ0KCQkkZGItPnNldFF1ZXJ5KChzdHJpbmcpJHF1ZXJ5KTsNCgkJJGl0ZW1zID0gJGRiLT5sb2FkT2JqZWN0TGlzdCgpOw0KCQkkb3B0aW9ucyA9IFtdOw0KCQlpZiAoJGl0ZW1zKQ0KCQl7DQoJCQlpZiAoJHRoaXMtPm11bHRpcGxlID09PSBmYWxzZSkNCgkJCXsNCgkJCQkkb3B0aW9uc1tdID0gSHRtbDo6Xygnc2VsZWN0Lm9wdGlvbicsICcnLCBUZXh0OjpfKCdTZWxlY3QgYW4gb3B0aW9uJykpOw0KCQkJfQ0KCQkJZm9yZWFjaCgkaXRlbXMgYXMgJGl0ZW0pDQoJCQl7DQoJCQkJJG9wdGlvbnNbXSA9IEh0bWw6Ol8oJ3NlbGVjdC5vcHRpb24nLCAkaXRlbS0+IyMjSUQjIyMsICRpdGVtLT4jIyNDT0RFX1RFWFQjIyMpOw0KCQkJfQ0KCQl9DQoJCXJldHVybiAkb3B0aW9uczs=\"\n\/>",
+    "datalenght": "255",
+    "javascript_view_footer": "",
+    "css_views": "",
+    "css_view": "",
+    "datadefault_other": "",
+    "datadefault": "",
+    "datalenght_other": "",
+    "javascript_views_footer": "",
+    "add_css_view": 0,
+    "add_css_views": 0,
+    "add_javascript_view_footer": 0,
+    "add_javascript_views_footer": 0,
+    "initiator_on_save_model": "",
+    "guid": "d8949125-db0d-4c30-bca2-df19e4d1f445",
+    "@dependencies": [
+        {
+            "key": "guid",
+            "value": "dd2e1f4b-f5db-45e8-85fa-efd27bae7b6a",
+            "entity": "fieldtype",
+            "table": "#__componentbuilder_fieldtype",
+            "direction": "out"
+        }
+    ]
+}
