@@ -57,12 +57,21 @@ This preserves version control while allowing your own field improvements to liv
 ### Index of Fields
 
 
+ - **1 stop** | [Details](src/field/934eb37b-0fb1-4fed-b3ec-969cd0b364ee) | [Settings](src/field/934eb37b-0fb1-4fed-b3ec-969cd0b364ee/item.json)
+ - **2 stop** | [Details](src/field/4a87c014-04ca-4986-8aea-43ed407ff07a) | [Settings](src/field/4a87c014-04ca-4986-8aea-43ed407ff07a/item.json)
+ - **3 stop** | [Details](src/field/f68fdba1-62f1-4396-b915-cacc79206db5) | [Settings](src/field/f68fdba1-62f1-4396-b915-cacc79206db5/item.json)
  - **DJ_decision** | [Details](src/field/bf532525-e94e-46d5-ad2b-3a340284763e) | [Settings](src/field/bf532525-e94e-46d5-ad2b-3a340284763e/item.json)
  - **DJ_main_topic** | [Details](src/field/38cb08ea-ff3b-4485-a623-dff243262632) | [Settings](src/field/38cb08ea-ff3b-4485-a623-dff243262632/item.json)
  - **DJ_note** | [Details](src/field/0e41b35c-71f5-4a09-810a-1e0c67c5594f) | [Settings](src/field/0e41b35c-71f5-4a09-810a-1e0c67c5594f/item.json)
  - **DJ_project** | [Details](src/field/d8949125-db0d-4c30-bca2-df19e4d1f445) | [Settings](src/field/d8949125-db0d-4c30-bca2-df19e4d1f445/item.json)
  - **DJ_topic** | [Details](src/field/d0dcaaab-2299-41eb-bf41-322085b7458a) | [Settings](src/field/d0dcaaab-2299-41eb-bf41-322085b7458a/item.json)
+ - **Date (required)** | [Details](src/field/03995043-13fb-4ec7-bc66-e13434425a06) | [Settings](src/field/03995043-13fb-4ec7-bc66-e13434425a06/item.json)
+ - **Group** | [Details](src/field/0d4a5caa-2199-4fb1-b07f-bd8071d71dbe) | [Settings](src/field/0d4a5caa-2199-4fb1-b07f-bd8071d71dbe/item.json)
+ - **Latitude (decimal)** | [Details](src/field/b83771c3-ffd1-4827-a41d-a633873517c7) | [Settings](src/field/b83771c3-ffd1-4827-a41d-a633873517c7/item.json)
+ - **Longitude (decimal)** | [Details](src/field/2c6061d1-eb07-4f29-858b-21e4439b237b) | [Settings](src/field/2c6061d1-eb07-4f29-858b-21e4439b237b/item.json)
  - **Name** | [Details](src/field/dee8a359-09d8-4821-884a-58ed0e62b0cf) | [Settings](src/field/dee8a359-09d8-4821-884a-58ed0e62b0cf/item.json)
+ - **Name** | [Details](src/field/ea8871b6-4f71-480b-bbd7-0d71322c6464) | [Settings](src/field/ea8871b6-4f71-480b-bbd7-0d71322c6464/item.json)
+ - **Short Description** | [Details](src/field/c9896d41-82cf-42da-873f-2b7c59e22b81) | [Settings](src/field/c9896d41-82cf-42da-873f-2b7c59e22b81/item.json)
 
 ### All used in [Joomla Component Builder](https://www.joomlacomponentbuilder.com) - [Source](https://git.vdm.dev/joomla/Component-Builder) - [Mirror](https://github.com/vdm-io/Joomla-Component-Builder) - [Download](https://git.vdm.dev/joomla/pkg-component-builder/releases)
 
