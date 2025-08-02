@@ -1,0 +1,9 @@
+{
+    "0644c779-8948-4672-877e-13f8798c12cb": {
+        "name": "Development Journal",
+        "path": "src\/joomla_component\/0644c779-8948-4672-877e-13f8798c12cb",
+        "settings": "src\/joomla_component\/0644c779-8948-4672-877e-13f8798c12cb\/item.json",
+        "guid": "0644c779-8948-4672-877e-13f8798c12cb",
+        "desc": "Container of project development notes"
+    }
+}
