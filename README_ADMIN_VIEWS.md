@@ -50,6 +50,9 @@ This ensures maintainability while still allowing total customization per projec
  - **DJ Topics** | [Details](src/admin_view/01965bed-98ca-40e5-a14c-9f0e3dad095b) | [Settings](src/admin_view/01965bed-98ca-40e5-a14c-9f0e3dad095b/item.json) | The project describbed in notes
  - **DJ report rows** | [Details](src/admin_view/3e11ed08-d4ec-4aba-9f6b-7df772a2a997) | [Settings](src/admin_view/3e11ed08-d4ec-4aba-9f6b-7df772a2a997/item.json) | Rows for development notes
  - **DJ rows** | [Details](src/admin_view/b646e37c-9675-4fe3-8937-2942a734dd20) | [Settings](src/admin_view/b646e37c-9675-4fe3-8937-2942a734dd20/item.json) | Rows for development notes
+ - **Locations** | [Details](src/admin_view/eafd26f7-b13c-4c36-b8a3-ae7d71febb24) | [Settings](src/admin_view/eafd26f7-b13c-4c36-b8a3-ae7d71febb24/item.json) | List of the locations in the area
+ - **Reservations** | [Details](src/admin_view/e42d4c2d-ccd3-4291-a886-6f958be29417) | [Settings](src/admin_view/e42d4c2d-ccd3-4291-a886-6f958be29417/item.json) | Reservation
+ - **test** | [Details](src/admin_view/6bf8c6a1-36f3-4c13-b04d-89eefe322d0f) | [Settings](src/admin_view/6bf8c6a1-36f3-4c13-b04d-89eefe322d0f/item.json) | test
 
 ### All used in [Joomla Component Builder](https://www.joomlacomponentbuilder.com) - [Source](https://git.vdm.dev/joomla/Component-Builder) - [Mirror](https://github.com/vdm-io/Joomla-Component-Builder) - [Download](https://git.vdm.dev/joomla/pkg-component-builder/releases)
 
