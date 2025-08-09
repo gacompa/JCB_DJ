@@ -29,10 +29,9 @@
             "order": "0"
         },
         "addadmin_views2": {
-            "adminview": "6bf8c6a1-36f3-4c13-b04d-89eefe322d0f",
+            "adminview": "1f70dec6-20b6-4ef7-b4aa-e50b86cf98f3",
             "icomoon": "joomla",
             "mainmenu": "1",
-            "dashboard_add": "1",
             "dashboard_list": "1",
             "history": "1",
             "add_api": "0",
@@ -65,7 +64,7 @@
         },
         {
             "key": "guid",
-            "value": "6bf8c6a1-36f3-4c13-b04d-89eefe322d0f",
+            "value": "1f70dec6-20b6-4ef7-b4aa-e50b86cf98f3",
             "entity": "admin_view",
             "table": "#__componentbuilder_admin_view",
             "direction": "out"
