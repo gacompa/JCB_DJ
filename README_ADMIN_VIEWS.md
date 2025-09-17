@@ -50,6 +50,7 @@ This ensures maintainability while still allowing total customization per projec
  - **DJ Topics** | [Details](src/admin_view/01965bed-98ca-40e5-a14c-9f0e3dad095b) | [Settings](src/admin_view/01965bed-98ca-40e5-a14c-9f0e3dad095b/item.json) | The project describbed in notes
  - **DJ report rows** | [Details](src/admin_view/3e11ed08-d4ec-4aba-9f6b-7df772a2a997) | [Settings](src/admin_view/3e11ed08-d4ec-4aba-9f6b-7df772a2a997/item.json) | Rows for development notes
  - **DJ rows** | [Details](src/admin_view/b646e37c-9675-4fe3-8937-2942a734dd20) | [Settings](src/admin_view/b646e37c-9675-4fe3-8937-2942a734dd20/item.json) | Rows for development notes
+ - **Destinazione** | [Details](src/admin_view/ab6a58ce-5d20-4c0a-819b-78b06c1f6535) | [Settings](src/admin_view/ab6a58ce-5d20-4c0a-819b-78b06c1f6535/item.json) | Destinazioni
  - **Locations** | [Details](src/admin_view/eafd26f7-b13c-4c36-b8a3-ae7d71febb24) | [Settings](src/admin_view/eafd26f7-b13c-4c36-b8a3-ae7d71febb24/item.json) | List of the locations in the area
  - **Places** | [Details](src/admin_view/55aac7da-e105-4ab2-9c34-6ee44e8b692c) | [Settings](src/admin_view/55aac7da-e105-4ab2-9c34-6ee44e8b692c/item.json) | Relevant places in the area
  - **Reservations** | [Details](src/admin_view/e42d4c2d-ccd3-4291-a886-6f958be29417) | [Settings](src/admin_view/e42d4c2d-ccd3-4291-a886-6f958be29417/item.json) | Reservation
