@@ -8,12 +8,12 @@
     "php_getlistquery": "",
     "php_getitems": "",
     "name_list": "rows",
-    "icon": "",
+    "icon": "images\/com_dj\/Icons\/copied-icon.png#joomlaImage:\/\/local-images\/com_dj\/Icons\/copied-icon.png?width=100&height=100",
     "php_after_publish": "",
     "add_fadein": 1,
     "description": "",
     "icon_category": "",
-    "icon_add": "",
+    "icon_add": "images\/com_dj\/Icons\/file-new-icon.png#joomlaImage:\/\/local-images\/com_dj\/Icons\/file-new-icon.png?width=100&height=100",
     "php_after_cancel": "",
     "mysql_table_charset": "utf8mb4",
     "php_batchmove": "",
@@ -89,6 +89,22 @@
             "entity": "admin_fields",
             "table": "#__componentbuilder_admin_fields",
             "direction": "in"
+        },
+        {
+            "key": "2bbdafb0-a966-57e4-91dd-1def03d99bfa.png",
+            "pointer": "2bbdafb0-a966-57e4-91dd-1def03d99bfa--png",
+            "value": "images\/com_dj\/Icons\/copied-icon.png",
+            "entity": "file",
+            "table": "file_system",
+            "target": "images"
+        },
+        {
+            "key": "4c8adf2c-31b6-5874-8750-a2be9be96e54.png",
+            "pointer": "4c8adf2c-31b6-5874-8750-a2be9be96e54--png",
+            "value": "images\/com_dj\/Icons\/file-new-icon.png",
+            "entity": "file",
+            "table": "file_system",
+            "target": "images"
         }
     ]
 }
