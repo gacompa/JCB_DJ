@@ -8,12 +8,12 @@
     "php_getlistquery": "",
     "php_getitems": "",
     "name_list": "topics",
-    "icon": "",
+    "icon": "images\/com_dj\/Icons\/writing-pad-clipboard-icon.png#joomlaImage:\/\/local-images\/com_dj\/Icons\/writing-pad-clipboard-icon.png?width=100&height=100",
     "php_after_publish": "",
     "add_fadein": 1,
     "description": "",
     "icon_category": "",
-    "icon_add": "",
+    "icon_add": "images\/com_dj\/Icons\/create-task-icon.png#joomlaImage:\/\/local-images\/com_dj\/Icons\/create-task-icon.png?width=100&height=100",
     "php_after_cancel": "",
     "mysql_table_charset": "utf8mb4",
     "php_batchmove": "",
@@ -89,6 +89,22 @@
             "entity": "admin_fields",
             "table": "#__componentbuilder_admin_fields",
             "direction": "in"
+        },
+        {
+            "key": "a59681b3-c2f4-501b-959f-7d1f5b67fe43.png",
+            "pointer": "a59681b3-c2f4-501b-959f-7d1f5b67fe43--png",
+            "value": "images\/com_dj\/Icons\/writing-pad-clipboard-icon.png",
+            "entity": "file",
+            "table": "file_system",
+            "target": "images"
+        },
+        {
+            "key": "117fc29e-9311-51c8-8a06-a72c3bf772ae.png",
+            "pointer": "117fc29e-9311-51c8-8a06-a72c3bf772ae--png",
+            "value": "images\/com_dj\/Icons\/create-task-icon.png",
+            "entity": "file",
+            "table": "file_system",
+            "target": "images"
         }
     ]
 }
