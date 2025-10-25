@@ -1,37 +1,37 @@
 ### JCB! Field
-# DJ_main_topic
+# DJ main topic
 
-> Field Type: Custom
+> Field Type: ModalSelect
 
 ## Field XML:
 ```xml
 <field
-	type="maintopics"
+	type="ModalSelect"
 	name="maintopic"
 	label="Main topic"
-	description="Insert your notes"
-	message=""
-	class="list_class"
-	layout="joomla.form.field.list-fancy-select"
-	multiple="false"
-	default=""
+	sql_title_table="#__###component###_maintopic"
+	sql_title_column="name"
+	sql_title_key="id"
+	urlSelect="index.php?option=com_###component###&amp;view=maintopics&amp;layout=modal&amp;tmpl=component&amp;titleKey=id"
+	urlNew="index.php?option=com_###component###&amp;task=targetview.add&amp;layout=modal&amp;tmpl=component"
+	urlEdit="index.php?option=com_###component###&amp;task=targetview.edit&amp;id={id}&amp;layout=modal&amp;tmpl=component"
+	titleSelect="Select Targetview"
+	titleNew="New Targetview"
+	titleEdit="Edit Targetview"
+	iconSelect="icon-copy"
+	select="true"
+	new="false"
+	edit="false"
+	clear="true"
 	required="true"
-	validate=""
+	class="input-large"
+	description="Insert your notes"
+	hint="Select a Targetview"
+	default=""
 	readonly="false"
 	disabled="false"
 	showon=""
-	onchange=""
-	extends="list"
-	button="true"
-	table="#__###component###_maintopic"
-	component="com_###component###"
-	entity="fieldtype"
-	view="main_topic"
-	views="main_topics"
-	value_field="name"
-	key_field="id"
-	prime_php="1"
-	type_php_1="__.o0=base64=Oo.__Ly8gR2V0IHRoZSB1c2VyIG9iamVjdC4NCgkJJHVzZXIgPSBGYWN0b3J5OjpnZXRVc2VyKCk7DQoJCS8vIEdldCB0aGUgZGF0YWJzZSBvYmplY3QuDQoJCSRkYiA9IEZhY3Rvcnk6OmdldERCTygpOw0KCQkkcXVlcnkgPSAkZGItPmdldFF1ZXJ5KHRydWUpOw0KCQkkcXVlcnktPnNlbGVjdCgkZGItPnF1b3RlTmFtZShhcnJheSgnYS4jIyNJRCMjIycsJ2EuIyMjVEVYVCMjIycpLGFycmF5KCcjIyNJRCMjIycsJyMjI0NPREVfVEVYVCMjIycpKSk7DQoJCSRxdWVyeS0+ZnJvbSgkZGItPnF1b3RlTmFtZSgnIyMjVEFCTEUjIyMnLCAnYScpKTsNCgkJJHF1ZXJ5LT53aGVyZSgkZGItPnF1b3RlTmFtZSgnYS5wdWJsaXNoZWQnKSAuICcgPSAxJyk7DQoJCSRxdWVyeS0+b3JkZXIoJ2EuIyMjVEVYVCMjIyBBU0MnKTsNCgkJLy8gSW1wbGVtZW50IFZpZXcgTGV2ZWwgQWNjZXNzIChpZiBzZXQgaW4gdGFibGUpDQoJCWlmICghJHVzZXItPmF1dGhvcmlzZSgnY29yZS5vcHRpb25zJywgJ1tbW2NvbV9jb21wb25lbnRdXV0nKSkNCgkJew0KCQkJJGNvbHVtbnMgPSAkZGItPmdldFRhYmxlQ29sdW1ucygnIyMjVEFCTEUjIyMnKTsNCgkJCWlmKGlzc2V0KCRjb2x1bW5zWydhY2Nlc3MnXSkpDQoJCQl7DQoJCQkJJGdyb3VwcyA9IGltcGxvZGUoJywnLCAkdXNlci0+Z2V0QXV0aG9yaXNlZFZpZXdMZXZlbHMoKSk7DQoJCQkJJHF1ZXJ5LT53aGVyZSgnYS5hY2Nlc3MgSU4gKCcgLiAkZ3JvdXBzIC4gJyknKTsNCgkJCX0NCgkJfQ0KCQkkZGItPnNldFF1ZXJ5KChzdHJpbmcpJHF1ZXJ5KTsNCgkJJGl0ZW1zID0gJGRiLT5sb2FkT2JqZWN0TGlzdCgpOw0KCQkkb3B0aW9ucyA9IFtdOw0KCQlpZiAoJGl0ZW1zKQ0KCQl7DQoJCQlpZiAoJHRoaXMtPm11bHRpcGxlID09PSBmYWxzZSkNCgkJCXsNCgkJCQkkb3B0aW9uc1tdID0gSHRtbDo6Xygnc2VsZWN0Lm9wdGlvbicsICcnLCBUZXh0OjpfKCdTZWxlY3QgYW4gb3B0aW9uJykpOw0KCQkJfQ0KCQkJZm9yZWFjaCgkaXRlbXMgYXMgJGl0ZW0pDQoJCQl7DQoJCQkJJG9wdGlvbnNbXSA9IEh0bWw6Ol8oJ3NlbGVjdC5vcHRpb24nLCAkaXRlbS0+IyMjSUQjIyMsICRpdGVtLT4jIyNDT0RFX1RFWFQjIyMpOw0KCQkJfQ0KCQl9DQoJCXJldHVybiAkb3B0aW9uczs="
+	validate=""
 />
 ```
 
