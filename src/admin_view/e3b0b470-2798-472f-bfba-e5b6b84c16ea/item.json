@@ -8,12 +8,12 @@
     "php_getlistquery": "",
     "php_getitems": "",
     "name_list": "maintopics",
-    "icon": "",
+    "icon": "images\/com_dj\/Icons\/planning-icon.png#joomlaImage:\/\/local-images\/com_dj\/Icons\/planning-icon.png?width=100&height=100",
     "php_after_publish": "",
     "add_fadein": 1,
     "description": "",
     "icon_category": "",
-    "icon_add": "",
+    "icon_add": "images\/com_dj\/Icons\/add-project-icon.png#joomlaImage:\/\/local-images\/com_dj\/Icons\/add-project-icon.png?width=100&height=100",
     "php_after_cancel": "",
     "mysql_table_charset": "utf8mb4",
     "php_batchmove": "",
@@ -89,6 +89,22 @@
             "entity": "admin_fields",
             "table": "#__componentbuilder_admin_fields",
             "direction": "in"
+        },
+        {
+            "key": "b3a5c71f-32ab-5ea5-8367-e3886c58173e.png",
+            "pointer": "b3a5c71f-32ab-5ea5-8367-e3886c58173e--png",
+            "value": "images\/com_dj\/Icons\/planning-icon.png",
+            "entity": "file",
+            "table": "file_system",
+            "target": "images"
+        },
+        {
+            "key": "f4d2381a-f9c3-5e9c-b56c-2df186960577.png",
+            "pointer": "f4d2381a-f9c3-5e9c-b56c-2df186960577--png",
+            "value": "images\/com_dj\/Icons\/add-project-icon.png",
+            "entity": "file",
+            "table": "file_system",
+            "target": "images"
         }
     ]
 }
