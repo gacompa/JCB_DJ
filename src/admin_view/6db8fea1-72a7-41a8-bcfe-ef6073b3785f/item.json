@@ -8,12 +8,12 @@
     "php_getlistquery": "",
     "php_getitems": "",
     "name_list": "projects",
-    "icon": "",
+    "icon": "images\/com_dj\/Icons\/computer-folder-open-icon.png#joomlaImage:\/\/local-images\/com_dj\/Icons\/computer-folder-open-icon.png?width=100&height=100",
     "php_after_publish": "",
     "add_fadein": 1,
     "description": "",
     "icon_category": "",
-    "icon_add": "",
+    "icon_add": "images\/com_dj\/Icons\/add-folder-icon.png#joomlaImage:\/\/local-images\/com_dj\/Icons\/add-folder-icon.png?width=100&height=100",
     "php_after_cancel": "",
     "mysql_table_charset": "utf8mb4",
     "php_batchmove": "",
@@ -89,6 +89,22 @@
             "entity": "admin_fields",
             "table": "#__componentbuilder_admin_fields",
             "direction": "in"
+        },
+        {
+            "key": "a487d903-0ea5-5bb7-adc7-725a3d886745.png",
+            "pointer": "a487d903-0ea5-5bb7-adc7-725a3d886745--png",
+            "value": "images\/com_dj\/Icons\/computer-folder-open-icon.png",
+            "entity": "file",
+            "table": "file_system",
+            "target": "images"
+        },
+        {
+            "key": "16b249c0-5a85-5e80-833f-6636ac10cd24.png",
+            "pointer": "16b249c0-5a85-5e80-833f-6636ac10cd24--png",
+            "value": "images\/com_dj\/Icons\/add-folder-icon.png",
+            "entity": "file",
+            "table": "file_system",
+            "target": "images"
         }
     ]
 }
